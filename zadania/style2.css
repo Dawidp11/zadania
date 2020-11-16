@@ -1,17 +1,12 @@
 body
 {
-background-color: rgba(17, 236, 64, 0.603);
-margin: 4px ;
+background-color: rgba(9, 107, 219, 0.603);
+margin: 0px ;
 padding: 0px;
 }
 p{
 margin: 0px;
 padding:0px;
-}
-#strona
-{
- background-color: rgb(168, 17, 238); 
- margin: -2px;
 }
 #baner
 {
@@ -23,26 +18,37 @@ padding:0px;
 #menu
 {
  height:310px ;
- background-color: coral;
+ background-color: rgb(80, 255, 89);
  margin: 0px;
  padding:0px;
- width: 300px;
+ width: 1600px;
  display: inline-block;
+}
+#menu1
+{
+    height:310px ;
+    background-color: rgb(48, 209, 15);
+    margin: 0px;
+    margin-left: -670px;
+    padding:0px;
+    width: 983px;
+    display: inline-block;
 }
 #art
 {
     height:300px ;
     background-color: rgb(24, 194, 224);
     margin:4px;
+    margin-left: -8px;
     padding:0px;
     width: 1730px;
     display: inline-block;
 }
 #stopka
 {
- background:#290ada;
- text-align: center ;
- padding:10px;
- color: rgb(238, 10, 10);
-
+    background:#290ada;
+    text-align: center ;
+    padding:10px;
+    color: rgb(238, 10, 10);
+    width: 1896px;
 } 

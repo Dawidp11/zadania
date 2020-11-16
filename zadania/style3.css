@@ -16,22 +16,18 @@ padding:0px;
  background: #1abc9c;
  color: white;
 }
-#menu
-{
- height:300px ;
- background-color: coral;
- margin: 0px;
- padding:0px;
- width: 210px;
- display: inline-block;
-}
+
+
+
+
+
 #zdjecie
-{
+{   margin-left:-20px ;
     height:300px ;
     background-color: rgb(196, 226, 23);
     margin: 0px;
     padding:0px;
-    width: 910px;
+    width: 710px;
     display: inline-block;
 }
 
@@ -43,6 +39,15 @@ padding:0px;
     padding:0px;
     width: 800px;
     display: inline-block;
+}
+#arty
+{
+    height:300px ;
+    background-color: rgb(238, 22, 227);
+    margin: -4px;
+    padding:0px;
+    width: 414px;
+    display: inline-block; 
 }
 #stopka
 {
