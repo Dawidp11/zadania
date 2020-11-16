@@ -1,0 +1,99 @@
+Body
+{
+background-color:rgb(166, 255, 0);
+margin: 4px ;
+padding: 0px;
+}
+p{
+margin: 0px;
+padding:0px;
+}
+#strona
+{
+ background-color:aqua; 
+ margin: 0px;
+ width: 600px;
+}
+
+#baner
+{
+  margin-top: 30px;  
+ padding: 10px;
+ text-align: center;
+ background: #1abc9c;
+ color: white;
+ width: 600px;
+ margin-left:3;
+}
+#muzyka5
+{
+    margin-top: -7px;  
+    padding: 10px;
+    text-align: center;
+    background: #eb0e87;
+    color: white;
+    width: 600px;
+    margin-left:10%;
+}
+#muzyka5
+{
+    margin-top: -7px;  
+    padding: 10px;
+    text-align: center;
+    background: #eb0e87;
+    color: white;
+    width: 600px;
+    margin-left:10%;
+}
+#muzyka4
+{
+    margin-top: -7px;  
+    padding: 10px;
+    text-align: center;
+    background: #69609c;
+    color: white;
+    width: 600px;
+    margin-left:10%;
+}
+#muzyka3
+{
+    margin-top: -7px;  
+    padding: 10px;
+    text-align: center;
+    background: #d5eb0e;
+    color: white;
+    width: 600px;
+    margin-left:2%;
+
+}
+#muzyka2
+{
+    margin-top: -7px;  
+    padding: 10px;
+    text-align: center;
+    background: #e4480a;
+    color: white;
+    width: 600px;
+    margin-left:10%;
+
+}
+#muzyka1
+{
+    margin-top: -7px;  
+    padding: 10px;
+    text-align: center;
+    background: #eb5f0e;
+    color: white;
+    width: 600px;
+    margin-left:10%;
+
+}
+#menu
+{
+ height:300px ;
+ background-color:aqua;
+ margin:4px;
+ padding:0px;
+ width: 600px;
+ display: inline-block;
+}

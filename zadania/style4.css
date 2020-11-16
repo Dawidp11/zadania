@@ -1,0 +1,63 @@
+body
+{
+background-color: aqua;
+margin: 4px ;
+padding: 0px;
+}
+p{
+margin: 0px;
+padding:0px;
+}
+
+#baner
+{
+ padding: 10px;
+ margin: -7;
+ text-align: center;
+ background: #1abc9c;
+ color: white;
+ margin-left: 4px;
+}
+#menu
+{
+ height:300px ;
+ background-color: coral;
+ margin: 4px;
+ padding:0px;
+ width: 900px;
+ display: inline-block;
+}
+#art
+{
+    height:300px ;
+    background-color: coral;
+    margin: -7px;
+    padding:0px;
+    width: 830px;
+    display: inline-block;
+}
+#stopka1
+  {height:20px ;
+    background-color: rgb(117, 230, 11);
+    margin: -7px;
+    padding:10px;
+    width: 600px;
+    margin-left: 4px;
+    display: inline-block;
+}
+#stopka2
+  {height:20px ;
+    background-color: rgb(133, 80, 255);
+    margin: -7px;
+    padding:10px;
+    width: 600px;
+    display: inline-block;
+}
+#stopka3
+  {height:20px ;
+    background-color: rgb(212, 13, 106);
+    margin: -7px;
+    padding:10px;
+    width: 490px;
+    display: inline-block;
+}
