@@ -12,21 +12,35 @@ padding:0px;
 }
 #strona
 {
-
- background-color:aqua; 
+    border-left-width: 3px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: red;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
+ background-color:#663399; 
  margin: 0px;
 }
 #baner
 {
- border-left-width: 3px;
- border-left-style: solid;
- border-left-color: red;
- border-top-width: 3px;
- border-top-style: solid;
- border-top-color: red;
- border-right-width: 3px;
- border-right-style: solid;
- border-right-color: red;
+    border-left-width: 3px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: red;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
  padding: 10px;
  text-align: center;
  background: #1abc9c;
@@ -37,7 +51,7 @@ padding:0px;
 {
     
  height:300px ;
- background-color:aqua;
+ background-color:#663399;
  margin:4px;
  padding:0px;
  width: 200px;

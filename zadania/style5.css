@@ -11,70 +11,153 @@ padding:0px;
 }
 
 #baner
-{
+{ border-left-width: 3px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: red;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
     background:#5dda0a;
     text-align: center ;
     padding:10px;
     color: rgb(238, 10, 10);
-    width: 1890px;
+    width: 2089px;
 }
 #menu
 {
+    border-left-width: 3px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: red;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
  height:300px ;
  background-color:aqua;
  margin:0px;
  padding:0px;
- width: 1910px;
+ width: 2108px;
  display: inline-block;
 }
 #arti
 {
+    border-left-width: 3px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: red;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
     height:300px ;
     background-color: rgb(16, 214, 26);
     margin: 0px;
     padding:0px;
-    width: 1910px;
+    width: 2108px;
     margin-left: 0px;
     display: inline-block;
 }
 #text1
 {
+    border-left-width: 3px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: red;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
     margin-top: -10px;
     height:300px ;
     background-color: coral;
     margin: -5px;
     padding:0px;
-    width: 931px;
+    width: 1000px;
     margin-left: 0px;
     display: inline-block;
 }
 #text2
 {
+    border-left-width: 3px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: red;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
     margin-top: -300px;
     height:300px ;
     background-color: rgb(59, 16, 214);
     margin: -5px;
     padding:0px;
-    width: 990px;
+    width: 1113px;
     margin-left: -10px;
     display: inline-block;
 }
 #video 
 {
+    border-left-width: 3px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: red;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
     height:300px ;
     background-color: rgb(16, 214, 26);
     margin: 0px;
     padding:0px;
-    width: 1910px;
+    width: 2108px;
     margin-left: 0px;
     display: inline-block;
 }
 
 #stopka
 {
+    border-left-width: 3px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: red;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
  background:#290ada;
  text-align: center ;
  padding:10px;
  color: rgb(238, 10, 10);
- width: 1890px;
+ width: 2086pxpx;
 } 

@@ -10,6 +10,18 @@ padding:0px;
 }
 #baner
 {
+    border-left-width: 3px;
+ border-left-style: solid;
+ border-left-color: red;
+ border-top-width: 3px;
+ border-top-style: solid;
+ border-top-color: red;
+ border-right-width: 3px;
+ border-right-style: solid;
+ border-right-color: red;
+ border-bottom-width: 3px;
+ border-bottom-style: solid;
+ border-bottom-color: red;
  padding: 10px;
  text-align: center;
  background: #1abc9c;
@@ -17,6 +29,18 @@ padding:0px;
 }
 #menu
 {
+    border-left-width: 3px;
+ border-left-style: solid;
+ border-left-color: red;
+ border-top-width: 3px;
+ border-top-style: solid;
+ border-top-color: red;
+ border-right-width: 3px;
+ border-right-style: solid;
+ border-right-color: red;
+ border-bottom-width: 3px;
+ border-bottom-style: solid;
+ border-bottom-color: red;
  height:310px ;
  background-color: rgb(80, 255, 89);
  margin: 0px;
@@ -26,12 +50,24 @@ padding:0px;
 }
 #menu1
 {
+    border-left-width: 3px;
+ border-left-style: solid;
+ border-left-color: red;
+ border-top-width: 3px;
+ border-top-style: solid;
+ border-top-color: red;
+ border-right-width: 3px;
+ border-right-style: solid;
+ border-right-color: red;
+ border-bottom-width: 3px;
+ border-bottom-style: solid;
+ border-bottom-color: red;
     height:310px ;
     background-color: rgb(48, 209, 15);
     margin: 0px;
     margin-left: -670px;
     padding:0px;
-    width: 983px;
+    width: 973px;
     display: inline-block;
 }
 #art
@@ -46,9 +82,22 @@ padding:0px;
 }
 #stopka
 {
-    background:#290ada;
-    text-align: center ;
-    padding:10px;
-    color: rgb(238, 10, 10);
-    width: 1896px;
-} 
+    border-left-width: 3px;
+    border-left-style: solid;
+    border-left-color: red;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: red;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
+    margin-top: -6px;
+ background:#290ada;
+ text-align: center ;
+ padding:9px;
+ color: rgb(238, 10, 10);
+ width: 2086px;
+}
